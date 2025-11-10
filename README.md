@@ -25,7 +25,7 @@ The framework integrates curated biological pathway knowledge into single-cell r
 📄 PathwayGNN.ipynb     # Python notebook for Proposed Methodology
 📄 README.md     # Project documentation
 
-## 🧰 Dependencies
+## Dependencies
 
 | Package | Version |
 |--------|---------|
