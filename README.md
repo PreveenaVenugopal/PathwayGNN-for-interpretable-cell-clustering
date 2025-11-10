@@ -40,20 +40,24 @@ Install required packages:
 pip install torch torch-geometric scanpy networkx umap-learn scikit-learn
 
 ## Running the Pipeline
-Google Colab
 Open the notebook directly:
-notebooks/pathway_gnn_pipeline.ipynb
+
+PathwayGNN.ipynb
 
 Upload the following inputs:
 
 Expression matrix (.csv with genes × cells and metadata columns)
+
 Pathway gene sets (.gmt format)
 
 Then run all cells. Output includes:
 
 Final cell embeddings
+
 KMeans / Leiden clustering
+
 Pathway attribution heatmaps
+
 UMAP visualizations
 
 ## Data Availability
