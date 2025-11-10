@@ -19,12 +19,12 @@ The framework integrates curated biological pathway knowledge into single-cell r
 
 
 ## Repository Structure
-
+```
 📂 results/         # Model and data specific results
 📄 supplimentary_materials     # Document explaining the cluster results
 📄 PathwayGNN.ipynb     # Python notebook for Proposed Methodology
 📄 README.md     # Project documentation
-
+```
 ## Dependencies
 
 | Package | Version |
