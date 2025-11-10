@@ -20,20 +20,10 @@ The framework integrates curated biological pathway knowledge into single-cell r
 
 ## Repository Structure
 
-Pathway-GNN/
-│
-├── notebooks/
-│ └── pathway_gnn_pipeline.ipynb # End-to-end Colab notebook
-│
-├── results/
-│ ├── UMAP_visualizations/ # Cell embedding visualizations
-│ ├── Pathway_attention_heatmaps/ # Cluster-specific pathway attributions
-│ └── Confusion_matrices/ # Cluster ↔ cell-type correspondence
-│
-├── supplementary/
-│ ├── Additional document/
-│
-└── README.md
+📂 results/         # Model and data specific results
+📄 supplimentary_materials     # Document explaining the cluster results
+📄 PathwayGNN.ipynb     # Python notebook for Proposed Methodology
+📄 README.md     # Project documentation
 
 ## 🧰 Dependencies
 
